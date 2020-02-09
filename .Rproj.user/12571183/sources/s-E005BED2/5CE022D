@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580488173504.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5CE022D",
+    "lastKnownWriteTime" : 1580489983,
+    "last_content_update" : 1580489983756,
+    "path" : "~/Communication/WIDS Talk/regression_to_the_mean.R",
+    "project_path" : "regression_to_the_mean.R",
+    "properties" : {
+        "cursorPosition" : "65,61",
+        "scrollLine" : "43"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
